@@ -1,6 +1,6 @@
 # My-own-presentation
 
-👨🏽‍🎓 PhD in Economics | 📊 Data Scientist | 🎯 Causal Inference | 💻 AI &amp; ML | 🧠 Incredibly multidisciplinary mindset
+Hybrid Data Scientist | PhD in Economics | Causal Inference & Machine Learning | Python
 
 
 👋 Hi everyone, welcome to my homepage 👋 I earned my doctoral degree in Economics (namely: Civil Economy, majoring in Economics) with a three-chapter 
