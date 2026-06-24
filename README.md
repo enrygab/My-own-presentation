@@ -3,7 +3,7 @@
 Hybrid Data Scientist | PhD in Economics | Causal Inference & Machine Learning | Python
 
 <a href="https://orcid.org" target="_blank">
-  <img src="https://githubusercontent.org" width="16" height="16" alt="ORCID iD icon" style="vertical-align: middle; margin-right: 4px;"/>
+  <img src="https://githubusercontent.org" width="16" height="16" alt="ORCID iD icon" style="vertical-align: middle; display: inline-block; margin-right: 4px;"/>
   ORCID account
 </a>
 
