@@ -7,6 +7,8 @@ Hybrid Data Scientist | PhD in Economics | Causal Inference & Machine Learning |
   ORCID account
 </a>
 
+:mortar_board: [**ORCID PROFILE**](https://orcid.org)
+
 
 ---
 
