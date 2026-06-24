@@ -7,6 +7,9 @@ Hybrid Data Scientist | PhD in Economics | Causal Inference & Machine Learning |
   Profilo Ricercatore
 </a>
 
+[🟢 **ORCID** | Profilo Ricercatore](https://orcid.org)
+
+
 :mortar_board: [**ORCID PROFILE**](https://orcid.org)
 
 
