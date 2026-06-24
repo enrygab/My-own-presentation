@@ -4,8 +4,10 @@ Hybrid Data Scientist | PhD in Economics | Causal Inference & Machine Learning |
 
 <a href="https://orcid.org" target="_blank">
   <img src="https://orcid.org" alt="ORCID iD icon" style="vertical-align: middle; margin-right: 4px;"/>
-  Visita il mio profilo accademico verificato
+  Verified ORCID account
 </a>
+
+
 
 
 
