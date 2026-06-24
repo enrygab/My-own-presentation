@@ -2,6 +2,12 @@
 
 Hybrid Data Scientist | PhD in Economics | Causal Inference & Machine Learning | Python
 
+<a href="https://orcid.org" target="_blank">
+  <img src="https://orcid.org" alt="ORCID iD icon" style="vertical-align: middle; margin-right: 4px;"/>
+  Visita il mio profilo accademico verificato
+</a>
+
+
 
 👋 Hi everyone, welcome to my homepage 👋 I earned my doctoral degree in Economics (namely: Civil Economy, majoring in Economics) with a three-chapter 
 doctoral dissertation focusing on the nexus between environmental awareness and macroeconomic indicators. I got familiar in using R, Gretl, STATA and Python
