@@ -3,11 +3,10 @@
 Hybrid Data Scientist | PhD in Economics | Causal Inference & Machine Learning | Python
 
 <a href="https://orcid.org" target="_blank">
-  <img src="https://orcid.org" alt="ORCID iD icon" style="vertical-align: middle; margin-right: 4px;"/>
-  Verified ORCID account
+  <img src="https://githubusercontent.org" width="16" height="16" alt="ORCID iD icon" style="vertical-align: middle; margin-right: 4px;"/>
+  ORCID account
 </a>
 
-[![ORCID](https://shields.io)](https://orcid.org)
 
 ---
 
